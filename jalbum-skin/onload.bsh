@@ -163,7 +163,7 @@ ControlPanel ui = new ControlPanel() {
 // Set help text for individual fields
 //ui.albumDate.setToolTipText("This could be a tagline or album date");
 //ui.description.setToolTipText("A longer description of the subject matter of this web album");
-ui.gKeywords.setToolTipText("Enter keywords to describe the album, each seperated by a comma and space");
+ui.gKeywords.setToolTipText("Enter keywords to describe the album, each separated by a comma and space");
 ui.copyright.setToolTipText("Enter (c) details for this Album: date and owner");
 ui.linkHome.setToolTipText("Address must start with http:// - example http://www.mydomain.com");
 ui.siteTitle.setToolTipText("Text that will appear on the page, such as Home or My Site");

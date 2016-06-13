@@ -5,7 +5,7 @@
  * Licensed under the MIT License:
  *   http://www.opensource.org/licenses/mit-license.php
  *
- * Much thanks to primary contributer Ponticlaro (http://www.ponticlaro.com)
+ * Much thanks to primary contributor Ponticlaro (http://www.ponticlaro.com)
  */
 ;(function($) {
 	// Globally keep track of all images by their unique hash.  Each item is an image data object.

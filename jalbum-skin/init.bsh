@@ -1,5 +1,5 @@
 /**
- * This script is run everytime an album is generated.
+ * This script is run every time an album is generated.
  * It basically installs filters set in the user interface
  */
 
